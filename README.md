@@ -1,4 +1,4 @@
-# A TensorFlow implementation of Neural Parametric Singing Synthesizer, based on ibab's implementation of DeepMind's WaveNet paper
+This is a TensorFlow implementation of "Neural Parametric Singing Synthesizer", based on ibab's implementation of DeepMind's WaveNet paper.
 original paper: https://arxiv.org/abs/1704.03809
 
 ## Requirements
